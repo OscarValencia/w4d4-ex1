@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">w4d4-ex1</string>
+    <string name="lbl_hello">Hello World! %1$d</string>
+
+</resources>
